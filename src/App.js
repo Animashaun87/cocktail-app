@@ -1,4 +1,5 @@
 import Frontend from "./layouts/frontend";
+import "./utils/styles/global.css";
 import "./App.css";
 
 function App() {
